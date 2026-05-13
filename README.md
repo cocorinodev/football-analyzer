@@ -16,6 +16,11 @@ Predict is a small, focused Python utility that fetches football data from Sport
 
 ```bash
 Add a .env file in the same folder 
+Add this to .env
+SPORTMONKS_API_TOKEN= your token
+TIMEZONE=Europe/Bucharest
+
+Create an account at sportmonks.com(14 days free trial) and add the api to ".env"
 ```
 
 ```pip install -r requirements.txt```
