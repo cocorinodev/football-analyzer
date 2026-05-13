@@ -14,6 +14,10 @@ Predict is a small, focused Python utility that fetches football data from Sport
 ## Installation
 1. Clone the repository and change into the project folder:
 
+```bash
+Add a .env file in the same folder 
+```
+
 ```pip install -r requirements.txt```
 
 ```bash
